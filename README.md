@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @rubenvanstaden
+- 👀 I’m interested in ...
+  - Quantum Computing 
+  - Bitcoin
+  - Microservices
+- 🌱 I’m currently learning ...
+  - Event Driven Design
+- 📫 How to reach me ...
+  - rubenvanstaden@gmail.com
