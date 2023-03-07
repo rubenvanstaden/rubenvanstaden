@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rubenvanstaden
 - 👀 I’m interested in ...
-  - Quantum Computing 
+  - Nostr
   - Bitcoin
   - Microservices
 - 🌱 I’m currently learning ...
-  - Event Driven Design
+  - Rust
 - 📫 How to reach me ...
-  - rubenvanstaden@gmail.com
+  - rvs.cipher@proton.me
