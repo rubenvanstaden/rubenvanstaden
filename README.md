@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rubenvanstaden
 - 👀 I’m interested in ...
   - Nostr
-  - Bitcoin
+  - Finance
   - Microservices
 - 🌱 I’m currently learning ...
   - Rust
