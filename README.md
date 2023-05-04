@@ -3,6 +3,7 @@
   - Nostr
   - Finance
   - Quantum
+  - Compilers
   - Zettelkasten
   - Distributed Systems
 - 🌱 I’m currently learning:
