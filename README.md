@@ -1,13 +1,7 @@
-- 👋 Hi, I’m @rubenvanstaden
-- 👀 I’m interested in:
-  - Nostr
+- Hi, I’m @rubenvanstaden
+- Interested In:
   - Finance
-  - Quantum
   - Compilers
-  - Zettelkasten
   - Distributed Systems
-- 🌱 I’m currently learning:
+- Currently Learning:
   - Rust
-  - Cryptography
-- 📫 How to reach me ...
-  - rvs.hello@pm.me
